@@ -1,0 +1,31 @@
+body{
+
+    background-color: blueviolet;
+}
+
+.haa{
+    color: darkkhaki;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 3px darkred;
+}
+
+#id1{
+
+    text-decoration: none;
+}
+
+img{
+
+    width: 300px;
+    height: 300px;
+    opacity: .55;
+}
+
+img:hover{
+
+    width: 350px;
+    height: 350px;
+    opacity:1 ;
+}
